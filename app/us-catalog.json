@@ -1,0 +1,992 @@
+[
+  {
+    "company": "United Airlines",
+    "role": "Data Science / Operations Analytics Intern",
+    "location": "Houston, TX",
+    "url": "https://careers.united.com/us/en/students-and-graduates",
+    "priority": "A",
+    "notes": "公司信息：航空。JD/要求：与你的数据分析和复杂运营流程经验匹配。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Southwest Airlines",
+    "role": "Data Science / Business Analytics Intern",
+    "location": "Dallas, TX",
+    "url": "https://careers.southwestair.com/us/en/campus-reach",
+    "priority": "A",
+    "notes": "公司信息：航空。JD/要求：德州优先备选；注意暑期项目发布时间。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Planet Labs",
+    "role": "Data Science / Geospatial Intern",
+    "location": "San Francisco, CA",
+    "url": "https://www.planet.com/company/careers/",
+    "priority": "A",
+    "notes": "公司信息：遥感/卫星数据。JD/要求：最佳航天数据方向之一；补GeoPandas/GDAL/SQL。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "SkyFi",
+    "role": "Geospatial Data / Product Intern",
+    "location": "Remote / Austin",
+    "url": "https://www.skyfi.com/careers",
+    "priority": "A",
+    "notes": "公司信息：卫星数据产品。JD/要求：AI工作流+产品经验很合适。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Esri",
+    "role": "Data Science / GIS Intern",
+    "location": "Redlands, CA",
+    "url": "https://www.esri.com/en-us/about/careers/student-jobs",
+    "priority": "A",
+    "notes": "公司信息：GIS/软件。JD/要求：重点主投；完成ArcGIS/GeoPandas作品集。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Descartes Labs",
+    "role": "Geospatial ML / Data Intern",
+    "location": "Remote / NM",
+    "url": "https://descarteslabs.com/careers/",
+    "priority": "A",
+    "notes": "公司信息：地理空间AI。JD/要求：技术栈补强后强匹配。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Google",
+    "role": "Data Science / Software / Product Analyst Intern",
+    "location": "CA / TX",
+    "url": "https://www.google.com/about/careers/applications/students/",
+    "priority": "A",
+    "notes": "公司信息：科技。JD/要求：竞争激烈；用科研数据+平台项目双简历。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Data Science / AI Intern",
+    "location": "Mountain View, CA / Redmond",
+    "url": "https://careers.microsoft.com/v2/global/en/students",
+    "priority": "A",
+    "notes": "公司信息：科技。JD/要求：国际生相对可投；重视SQL、ML与工程项目。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Amazon",
+    "role": "Data Science / Business Intelligence Intern",
+    "location": "Bay Area / Seattle / Austin",
+    "url": "https://www.amazon.jobs/content/en/career-programs/university",
+    "priority": "A",
+    "notes": "公司信息：科技。JD/要求：BI/Data Analyst是现实主线。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Apple",
+    "role": "Data Science / Operations Analytics Intern",
+    "location": "Cupertino, CA",
+    "url": "https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN",
+    "priority": "A",
+    "notes": "公司信息：科技。JD/要求：突出跨团队产品、数据与自动化。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Data Science / Applied ML Intern",
+    "location": "Santa Clara, CA",
+    "url": "https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/",
+    "priority": "B",
+    "notes": "公司信息：AI/芯片。JD/要求：需强化深度学习与可展示代码。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Databricks",
+    "role": "Data Science / Solutions Intern",
+    "location": "San Francisco, CA",
+    "url": "https://www.databricks.com/company/careers/university-recruiting",
+    "priority": "A",
+    "notes": "公司信息：数据平台。JD/要求：SQL/Spark/云是关键缺口。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Snowflake",
+    "role": "Data Science / Product Analytics Intern",
+    "location": "San Mateo, CA",
+    "url": "https://careers.snowflake.com/us/en/university-recruiting",
+    "priority": "A",
+    "notes": "公司信息：数据平台。JD/要求：补SQL和数据仓库基础。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Scale AI",
+    "role": "Data Science / AI Operations Intern",
+    "location": "San Francisco, CA",
+    "url": "https://scale.com/careers",
+    "priority": "A",
+    "notes": "公司信息：AI。JD/要求：AI流程和质量评估经验可转译。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "OpenAI",
+    "role": "Data / Product / Technical Program Intern",
+    "location": "San Francisco, CA",
+    "url": "https://openai.com/careers/",
+    "priority": "B",
+    "notes": "公司信息：AI。JD/要求：岗位少且竞争极高；作为冲刺项。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Anthropic",
+    "role": "Data / Product / Operations Intern",
+    "location": "San Francisco, CA",
+    "url": "https://www.anthropic.com/careers",
+    "priority": "B",
+    "notes": "公司信息：AI。JD/要求：实习数量有限；关注分析与运营类。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Salesforce",
+    "role": "Data Science / Product Analyst Intern",
+    "location": "San Francisco, CA",
+    "url": "https://careers.salesforce.com/en/university/",
+    "priority": "A",
+    "notes": "公司信息：企业软件。JD/要求：企业AI与流程平台经历契合。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "ServiceNow",
+    "role": "Data Science / Product Analyst Intern",
+    "location": "Santa Clara, CA",
+    "url": "https://careers.servicenow.com/early-careers/",
+    "priority": "A",
+    "notes": "公司信息：企业软件。JD/要求：Frappe平台经验可直接讲业务流程数字化。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Cisco",
+    "role": "Data Analyst / AI Intern",
+    "location": "San Jose, CA",
+    "url": "https://jobs.cisco.com/jobs/SearchJobs/intern",
+    "priority": "A",
+    "notes": "公司信息：科技。JD/要求：网络/基础设施场景与VNET经历相关。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Cloudflare",
+    "role": "Data / Product Analytics Intern",
+    "location": "San Francisco / Austin",
+    "url": "https://www.cloudflare.com/careers/",
+    "priority": "A",
+    "notes": "公司信息：云/网络。JD/要求：基础设施+AI经历有差异化。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Oracle",
+    "role": "Data Science / Cloud Analyst Intern",
+    "location": "Redwood Shores / Austin",
+    "url": "https://www.oracle.com/careers/students-grads/",
+    "priority": "A",
+    "notes": "公司信息：云/企业软件。JD/要求：SQL与云基础补齐后现实可投。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "IBM",
+    "role": "Data Scientist / AI Engineering Intern",
+    "location": "San Jose / Austin",
+    "url": "https://www.ibm.com/careers/internships",
+    "priority": "A",
+    "notes": "公司信息：AI/咨询。JD/要求：科研+企业AI项目叙事完整。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Chevron",
+    "role": "Data Science / Digital Intern",
+    "location": "Houston, TX / San Ramon, CA",
+    "url": "https://careers.chevron.com/students",
+    "priority": "A",
+    "notes": "公司信息：能源。JD/要求：休斯顿重点；科学数据和运维AI都能转译。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "ExxonMobil",
+    "role": "Data Science / IT Intern",
+    "location": "Houston, TX",
+    "url": "https://jobs.exxonmobil.com/",
+    "priority": "A",
+    "notes": "公司信息：能源。JD/要求：核验是否接受国际生；技术岗竞争强。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Shell",
+    "role": "Data Science / Digital Technology Intern",
+    "location": "Houston, TX",
+    "url": "https://www.shell.us/careers/students-and-graduates.html",
+    "priority": "A",
+    "notes": "公司信息：能源。JD/要求：国际化公司，Houston主投。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "bp",
+    "role": "Data Analytics / Digital Intern",
+    "location": "Houston, TX",
+    "url": "https://www.bp.com/en/global/corporate/careers/students-and-graduates.html",
+    "priority": "A",
+    "notes": "公司信息：能源。JD/要求：关注Trading、Digital、Operations Analytics。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "ConocoPhillips",
+    "role": "Data Analytics / IT Intern",
+    "location": "Houston, TX",
+    "url": "https://careers.conocophillips.com/",
+    "priority": "A",
+    "notes": "公司信息：能源。JD/要求：岗位资格逐岗核验。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "SLB",
+    "role": "Data Science / Digital Intern",
+    "location": "Houston, TX",
+    "url": "https://careers.slb.com/early-careers",
+    "priority": "A",
+    "notes": "公司信息：能源科技。JD/要求：科学计算和AI应用强匹配。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Halliburton",
+    "role": "Data Science / Technology Intern",
+    "location": "Houston, TX",
+    "url": "https://jobs.halliburton.com/",
+    "priority": "A",
+    "notes": "公司信息：能源科技。JD/要求：关注数字解决方案和软件岗位。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Baker Hughes",
+    "role": "Digital Technology / Data Intern",
+    "location": "Houston, TX",
+    "url": "https://careers.bakerhughes.com/global/en/early-careers",
+    "priority": "A",
+    "notes": "公司信息：能源科技。JD/要求：国际生机会逐岗核验；AI工作流匹配。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Wood Mackenzie",
+    "role": "Energy Data Analyst Intern",
+    "location": "Houston, TX",
+    "url": "https://careers.woodmac.com/",
+    "priority": "A",
+    "notes": "公司信息：能源数据/咨询。JD/要求：物理背景转能源分析的优质入口。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "S&P Global",
+    "role": "Data Analyst / Commodity Insights Intern",
+    "location": "Houston, TX",
+    "url": "https://careers.spglobal.com/jobs",
+    "priority": "A",
+    "notes": "公司信息：金融数据/能源。JD/要求：Houston现实主投；SQL和商业表达关键。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Morningstar",
+    "role": "Data Analyst Intern",
+    "location": "Chicago, IL",
+    "url": "https://careers.morningstar.com/",
+    "priority": "A",
+    "notes": "公司信息：金融数据。JD/要求：数据分析通用保底方向。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "JPMorgan Chase",
+    "role": "Data Science / Analytics Summer Associate",
+    "location": "Houston / CA / NY",
+    "url": "https://careers.jpmorgan.com/us/en/students/programs",
+    "priority": "A",
+    "notes": "公司信息：金融。JD/要求：硕士实习名称按项目核验；SQL/统计必备。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Capital One",
+    "role": "Data Analyst / Data Science Intern",
+    "location": "Plano, TX / CA",
+    "url": "https://www.capitalonecareers.com/internships",
+    "priority": "A",
+    "notes": "公司信息：金融科技。JD/要求：案例面试与SQL重点准备。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Deloitte",
+    "role": "AI & Data / Technology Consulting Intern",
+    "location": "Houston, TX / CA",
+    "url": "https://www.deloitte.com/us/en/careers/students.html",
+    "priority": "A",
+    "notes": "公司信息：咨询。JD/要求：签证支持因岗位而异；突出企业AI落地。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Accenture",
+    "role": "Data & AI Analyst Intern",
+    "location": "Houston, TX / CA",
+    "url": "https://www.accenture.com/us-en/careers/local/students",
+    "priority": "A",
+    "notes": "公司信息：咨询。JD/要求：项目交付与客户沟通经历契合。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "McKinsey QuantumBlack",
+    "role": "Data Science Intern",
+    "location": "Houston / Bay Area",
+    "url": "https://www.mckinsey.com/careers/search-jobs",
+    "priority": "B",
+    "notes": "公司信息：咨询/AI。JD/要求：冲刺项；强化算法与案例。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "BCG X",
+    "role": "Data Science / AI Intern",
+    "location": "Houston / Los Angeles / Bay Area",
+    "url": "https://careers.bcg.com/",
+    "priority": "B",
+    "notes": "公司信息：咨询/AI。JD/要求：冲刺项；需要项目深度和案例能力。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Rice University OIT / Research Computing",
+    "role": "Data / Research Software Student Role",
+    "location": "Houston, TX",
+    "url": "https://jobs.rice.edu/",
+    "priority": "A",
+    "notes": "公司信息：高校/科研。JD/要求：优先利用校内关系，兼顾CPT/校园就业规则。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Rice Space Institute / Faculty Labs",
+    "role": "Research Assistant / Data Project",
+    "location": "Houston, TX",
+    "url": "https://space.rice.edu/",
+    "priority": "A",
+    "notes": "公司信息：高校/航天。JD/要求：主动联系PI；天文、遥感、科学计算方向。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Caltech / IPAC",
+    "role": "Astronomy Data / Scientific Software Intern",
+    "location": "Pasadena, CA",
+    "url": "https://www.ipac.caltech.edu/careers",
+    "priority": "A",
+    "notes": "公司信息：天文/科研。JD/要求：科研经历直接匹配；优先非公民限制项目。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Rice Center for Research Computing",
+    "role": "Research Computing / Scientific Software Assistant",
+    "location": "Houston, TX",
+    "url": "https://researchcomputing.rice.edu/",
+    "priority": "A",
+    "notes": "公司信息：科研计算。JD/要求：校内岗位优先；按Rice学生就业规则办理。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Rice Data to Knowledge Lab",
+    "role": "Data Science Research Assistant",
+    "location": "Houston, TX",
+    "url": "https://d2k.rice.edu/",
+    "priority": "A",
+    "notes": "公司信息：数据科学。JD/要求：主动联系实验室并说明Python、科研数据与RAG经验。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Rice Ken Kennedy Institute",
+    "role": "AI / Data Research Project",
+    "location": "Houston, TX",
+    "url": "https://kenkennedy.rice.edu/",
+    "priority": "A",
+    "notes": "公司信息：AI/计算。JD/要求：关注学生项目、活动和合作实验室。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Rice Kinder Institute",
+    "role": "Urban Data Research Assistant",
+    "location": "Houston, TX",
+    "url": "https://kinder.rice.edu/about/employment",
+    "priority": "A",
+    "notes": "公司信息：城市数据。JD/要求：地理空间与数据分析作品可直接匹配。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "MD Anderson Cancer Center",
+    "role": "Data Science / Research Computing Intern",
+    "location": "Houston, TX",
+    "url": "https://jobs.mdanderson.org/",
+    "priority": "A",
+    "notes": "公司信息：医疗科研。JD/要求：非临床数据岗位；逐岗确认CPT和未来sponsorship。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Baylor College of Medicine",
+    "role": "Bioinformatics / Data Analyst Intern",
+    "location": "Houston, TX",
+    "url": "https://jobs.bcm.edu/",
+    "priority": "A",
+    "notes": "公司信息：医疗科研。JD/要求：科研数据管线经验可迁移；补统计与SQL。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Houston Methodist",
+    "role": "Data Analytics / Research Intern",
+    "location": "Houston, TX",
+    "url": "https://www.houstonmethodistcareers.org/",
+    "priority": "A",
+    "notes": "公司信息：医疗。JD/要求：优先研究、运营与数字化岗位。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Texas Children’s Hospital",
+    "role": "Data Analyst / Research Intern",
+    "location": "Houston, TX",
+    "url": "https://texaschildrenspeople.org/careers/",
+    "priority": "B",
+    "notes": "公司信息：医疗。JD/要求：非临床分析岗位，逐岗核验资格。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Memorial Hermann",
+    "role": "Business Intelligence / Analytics Intern",
+    "location": "Houston, TX",
+    "url": "https://jobs.memorialhermann.org/",
+    "priority": "A",
+    "notes": "公司信息：医疗运营。JD/要求：医院运营数据是现实转型方向。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "HP Inc.",
+    "role": "Data Science / Business Analytics Intern",
+    "location": "Spring, TX / Palo Alto, CA",
+    "url": "https://jobs.hp.com/",
+    "priority": "A",
+    "notes": "公司信息：科技。JD/要求：Houston附近重点；优先数据、供应链与产品分析。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "HPE",
+    "role": "Data Science / AI Intern",
+    "location": "Spring, TX / San Jose, CA",
+    "url": "https://careers.hpe.com/us/en/students",
+    "priority": "A",
+    "notes": "公司信息：企业科技。JD/要求：基础设施与AI平台经历匹配。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Dell Technologies",
+    "role": "Data Science / Product Analytics Intern",
+    "location": "Round Rock, TX",
+    "url": "https://jobs.dell.com/students",
+    "priority": "A",
+    "notes": "公司信息：科技。JD/要求：关注数据、供应链、产品与AI岗位。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Indeed",
+    "role": "Data Science / Product Analytics Intern",
+    "location": "Austin, TX",
+    "url": "https://www.indeed.com/careers",
+    "priority": "A",
+    "notes": "公司信息：互联网。JD/要求：职位开放与签证政策逐岗核验。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Uber",
+    "role": "Data Science / Product Analytics Intern",
+    "location": "San Francisco, CA",
+    "url": "https://www.uber.com/us/en/careers/teams/university/",
+    "priority": "A",
+    "notes": "公司信息：互联网/出行。JD/要求：SQL、实验设计和产品指标是重点。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Lyft",
+    "role": "Data Science / Decision Science Intern",
+    "location": "San Francisco, CA",
+    "url": "https://www.lyft.com/careers/university",
+    "priority": "A",
+    "notes": "公司信息：互联网/出行。JD/要求：强调统计、因果思维和运营数据。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Airbnb",
+    "role": "Data Science / Analytics Intern",
+    "location": "San Francisco, CA",
+    "url": "https://careers.airbnb.com/university/",
+    "priority": "A",
+    "notes": "公司信息：互联网。JD/要求：竞争高；补SQL和产品分析案例。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "LinkedIn",
+    "role": "Data Science / Business Analytics Intern",
+    "location": "Sunnyvale, CA",
+    "url": "https://careers.linkedin.com/students",
+    "priority": "A",
+    "notes": "公司信息：互联网。JD/要求：用平台项目与用户流程经验讲产品分析。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Adobe",
+    "role": "Data Science / Product Analytics Intern",
+    "location": "San Jose, CA",
+    "url": "https://careers.adobe.com/us/en/interns",
+    "priority": "A",
+    "notes": "公司信息：软件。JD/要求：产品数据与AI应用方向匹配。建议窗口：2026-09 至 2027-02。",
+    "country": "美国"
+  },
+  {
+    "company": "Intuit",
+    "role": "Data Science / Business Analytics Intern",
+    "location": "Mountain View, CA",
+    "url": "https://www.intuit.com/careers/programs/internships/",
+    "priority": "A",
+    "notes": "公司信息：金融科技。JD/要求：SQL、实验与客户问题拆解重要。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "PayPal",
+    "role": "Data Science / Risk Analytics Intern",
+    "location": "San Jose, CA",
+    "url": "https://careers.pypl.com/university-hiring/",
+    "priority": "A",
+    "notes": "公司信息：金融科技。JD/要求：数据分析、风控与产品均可投。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Block",
+    "role": "Data Science / Analytics Intern",
+    "location": "Bay Area / Remote",
+    "url": "https://block.xyz/careers",
+    "priority": "A",
+    "notes": "公司信息：金融科技。JD/要求：开放数量不稳定；逐岗核验CPT。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Visa",
+    "role": "Data Science / Product Analytics Intern",
+    "location": "Foster City, CA",
+    "url": "https://corporate.visa.com/en/jobs/students-and-graduates.html",
+    "priority": "A",
+    "notes": "公司信息：支付科技。JD/要求：适合数据分析和技术产品方向。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Mastercard",
+    "role": "Data Science / Analytics Intern",
+    "location": "Bay Area / TX",
+    "url": "https://careers.mastercard.com/us/en/students",
+    "priority": "A",
+    "notes": "公司信息：支付科技。JD/要求：关注Data & Services与产品分析。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "eBay",
+    "role": "Data Science / Product Analytics Intern",
+    "location": "San Jose, CA",
+    "url": "https://jobs.ebayinc.com/us/en/students",
+    "priority": "A",
+    "notes": "公司信息：电商。JD/要求：SQL和实验分析为主线。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "DoorDash",
+    "role": "Data Science / Strategy Analytics Intern",
+    "location": "San Francisco, CA",
+    "url": "https://careersatdoordash.com/university-careers/",
+    "priority": "A",
+    "notes": "公司信息：互联网/物流。JD/要求：运营与复杂市场分析适合物理背景转型。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Instacart",
+    "role": "Data Science / Product Analytics Intern",
+    "location": "San Francisco / Remote",
+    "url": "https://instacart.careers/",
+    "priority": "A",
+    "notes": "公司信息：互联网/零售。JD/要求：逐岗核验地点和CPT政策。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Pinterest",
+    "role": "Data Science / Product Analytics Intern",
+    "location": "San Francisco, CA",
+    "url": "https://www.pinterestcareers.com/early-career/",
+    "priority": "A",
+    "notes": "公司信息：互联网。JD/要求：重点准备SQL、统计和A/B测试。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Snap",
+    "role": "Data Science / Insights Intern",
+    "location": "Santa Monica, CA",
+    "url": "https://careers.snap.com/internships",
+    "priority": "A",
+    "notes": "公司信息：互联网。JD/要求：产品分析和机器学习方向。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "TikTok",
+    "role": "Data Analyst / Data Science Intern",
+    "location": "San Jose / Los Angeles, CA",
+    "url": "https://careers.tiktok.com/campus",
+    "priority": "A",
+    "notes": "公司信息：互联网。JD/要求：中文能力可加分；注意数据合规岗位差异。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "ByteDance",
+    "role": "Data Science / AI Product Intern",
+    "location": "San Jose, CA",
+    "url": "https://jobs.bytedance.com/en/position",
+    "priority": "A",
+    "notes": "公司信息：AI/互联网。JD/要求：AI应用和数据产品经验契合。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "SAP",
+    "role": "Data Science / AI Intern",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.sap.com/go/Students-and-Graduates/851201/",
+    "priority": "A",
+    "notes": "公司信息：企业软件。JD/要求：企业流程和平台开发经历适配。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Workday",
+    "role": "Data Science / Product Analytics Intern",
+    "location": "Pleasanton, CA",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career",
+    "priority": "A",
+    "notes": "公司信息：企业软件。JD/要求：企业SaaS、流程平台方向匹配。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Atlassian",
+    "role": "Data Science / Product Analytics Intern",
+    "location": "San Francisco / Remote",
+    "url": "https://www.atlassian.com/company/careers/earlycareers",
+    "priority": "A",
+    "notes": "公司信息：企业软件。JD/要求：美国实习开放时间不稳定，逐岗核验。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Twilio",
+    "role": "Data Science / Analytics Intern",
+    "location": "San Francisco / Remote",
+    "url": "https://www.twilio.com/en-us/company/jobs/early-careers",
+    "priority": "A",
+    "notes": "公司信息：云通信。JD/要求：技术平台与数据分析方向。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Zoom",
+    "role": "Data Science / Product Analytics Intern",
+    "location": "San Jose, CA",
+    "url": "https://careers.zoom.us/early-careers",
+    "priority": "A",
+    "notes": "公司信息：企业软件。JD/要求：关注AI、产品数据和运营分析。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Dropbox",
+    "role": "Data Science / Product Analytics Intern",
+    "location": "San Francisco / Remote",
+    "url": "https://jobs.dropbox.com/students",
+    "priority": "A",
+    "notes": "公司信息：云软件。JD/要求：逐岗确认美国地点与CPT。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Elastic",
+    "role": "Data / Solutions Engineering Intern",
+    "location": "Remote / Bay Area",
+    "url": "https://www.elastic.co/careers/",
+    "priority": "A",
+    "notes": "公司信息：数据平台。JD/要求：检索与RAG经验很有针对性。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "MongoDB",
+    "role": "Data Science / Solutions Intern",
+    "location": "San Francisco, CA",
+    "url": "https://www.mongodb.com/careers/students",
+    "priority": "A",
+    "notes": "公司信息：数据平台。JD/要求：数据库与AI应用结合，补SQL/NoSQL。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Confluent",
+    "role": "Data / Product Analytics Intern",
+    "location": "Mountain View, CA",
+    "url": "https://www.confluent.io/careers/",
+    "priority": "A",
+    "notes": "公司信息：数据基础设施。JD/要求：开放数量不稳定；关注大学招聘。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Cloudera",
+    "role": "Data Science / Solutions Intern",
+    "location": "Santa Clara, CA",
+    "url": "https://www.cloudera.com/careers.html",
+    "priority": "A",
+    "notes": "公司信息：数据平台。JD/要求：企业数据和AI平台方向。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Fivetran",
+    "role": "Data / Product Analytics Intern",
+    "location": "Oakland, CA",
+    "url": "https://www.fivetran.com/careers",
+    "priority": "A",
+    "notes": "公司信息：数据平台。JD/要求：数据管线经历可迁移；逐岗核验。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Weights & Biases",
+    "role": "ML Data / Product Intern",
+    "location": "San Francisco, CA",
+    "url": "https://wandb.ai/site/careers/",
+    "priority": "A",
+    "notes": "公司信息：MLOps。JD/要求：模型评估与AI流程经验契合。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Hugging Face",
+    "role": "ML / Data / Community Intern",
+    "location": "Remote / New York",
+    "url": "https://apply.workable.com/huggingface/",
+    "priority": "A",
+    "notes": "公司信息：AI开源。JD/要求：强调开源贡献和可复现项目。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Samsara",
+    "role": "Data Science / Product Analytics Intern",
+    "location": "San Francisco, CA",
+    "url": "https://www.samsara.com/company/careers/university",
+    "priority": "A",
+    "notes": "公司信息：IoT/运营科技。JD/要求：VNET基础设施与运维AI经验高度相关。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "C3 AI",
+    "role": "Data Science / Solutions Intern",
+    "location": "Redwood City, CA",
+    "url": "https://c3.ai/careers/",
+    "priority": "A",
+    "notes": "公司信息：企业AI。JD/要求：企业AI应用经历契合；技术面要求高。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Fervo Energy",
+    "role": "Data Science / Reservoir Analytics Intern",
+    "location": "Houston, TX",
+    "url": "https://fervoenergy.com/careers/",
+    "priority": "A",
+    "notes": "公司信息：新能源/地热。JD/要求：物理建模、数据管线与Houston组合很合适。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Octopus Energy",
+    "role": "Data Analyst / Energy Tech Intern",
+    "location": "Houston, TX",
+    "url": "https://octopusenergy.group/careers/",
+    "priority": "A",
+    "notes": "公司信息：能源科技。JD/要求：关注数据、产品和运营分析。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "ENGIE",
+    "role": "Data Analytics / Energy Intern",
+    "location": "Houston, TX",
+    "url": "https://jobs.engie.com/",
+    "priority": "A",
+    "notes": "公司信息：能源。JD/要求：国际化能源公司，关注数字化与市场分析。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "NRG Energy",
+    "role": "Data Analytics / Digital Intern",
+    "location": "Houston, TX",
+    "url": "https://careers.nrgenergy.com/",
+    "priority": "A",
+    "notes": "公司信息：能源。JD/要求：运营、客户和能源市场数据岗位。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "CenterPoint Energy",
+    "role": "Data Analytics / IT Intern",
+    "location": "Houston, TX",
+    "url": "https://careers.centerpointenergy.com/",
+    "priority": "A",
+    "notes": "公司信息：公用事业。JD/要求：基础设施运营数据与VNET经历相关。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Kinder Morgan",
+    "role": "Data Analytics / IT Intern",
+    "location": "Houston, TX",
+    "url": "https://www.kindermorgan.com/Careers",
+    "priority": "A",
+    "notes": "公司信息：能源基础设施。JD/要求：逐岗确认是否接受CPT。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Phillips 66",
+    "role": "Data Analytics / Digital Intern",
+    "location": "Houston, TX",
+    "url": "https://careers.phillips66.com/",
+    "priority": "A",
+    "notes": "公司信息：能源。JD/要求：关注IT、数据与供应链分析。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Dow",
+    "role": "Data Science / Digital Intern",
+    "location": "Houston / Lake Jackson, TX",
+    "url": "https://corporate.dow.com/en-us/careers/students.html",
+    "priority": "A",
+    "notes": "公司信息：化工/材料。JD/要求：科学背景+数据分析适配。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "LyondellBasell",
+    "role": "Data Analytics / Digital Intern",
+    "location": "Houston, TX",
+    "url": "https://careers.lyondellbasell.com/",
+    "priority": "A",
+    "notes": "公司信息：化工。JD/要求：运营与数字化岗位；逐岗核验CPT。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Schneider Electric",
+    "role": "Data Science / Digital Intern",
+    "location": "Houston / CA",
+    "url": "https://www.se.com/us/en/about-us/careers/students-and-young-professionals/",
+    "priority": "A",
+    "notes": "公司信息：能源管理。JD/要求：数据中心、能源和AI交叉方向非常合适。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Siemens",
+    "role": "Data Science / Digital Industries Intern",
+    "location": "Houston / CA",
+    "url": "https://www.siemens.com/us/en/company/jobs/search-careers/students.html",
+    "priority": "A",
+    "notes": "公司信息：工业科技。JD/要求：数字化、自动化和分析岗位。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Honeywell",
+    "role": "Data Analytics / Digital Intern",
+    "location": "Houston / CA",
+    "url": "https://careers.honeywell.com/us/en/students-graduates",
+    "priority": "A",
+    "notes": "公司信息：工业科技。JD/要求：仅投不涉及航空出口管制的商业/工业数据岗位。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Emerson",
+    "role": "Data Analytics / Automation Intern",
+    "location": "Houston, TX",
+    "url": "https://www.emerson.com/en-us/careers",
+    "priority": "A",
+    "notes": "公司信息：工业自动化。JD/要求：工业数据和运营AI方向。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Trimble",
+    "role": "Geospatial Data / Software Intern",
+    "location": "Westminster, CO / CA",
+    "url": "https://careers.trimble.com/",
+    "priority": "A",
+    "notes": "公司信息：地理空间科技。JD/要求：遥感/GIS主线优质公司。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Mapbox",
+    "role": "Geospatial Data / Product Intern",
+    "location": "San Francisco / Remote",
+    "url": "https://www.mapbox.com/careers",
+    "priority": "A",
+    "notes": "公司信息：地图/GIS。JD/要求：需完成GeoPandas/GDAL项目。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Foursquare",
+    "role": "Geospatial Data Science Intern",
+    "location": "Remote / New York",
+    "url": "https://foursquare.com/careers/",
+    "priority": "A",
+    "notes": "公司信息：位置数据。JD/要求：地理空间分析与产品数据交叉。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "CARTO",
+    "role": "Spatial Data Science Intern",
+    "location": "Remote / New York",
+    "url": "https://carto.com/careers/",
+    "priority": "A",
+    "notes": "公司信息：空间数据平台。JD/要求：重点展示SQL、Python与GIS。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Climate Corporation",
+    "role": "Data Science / Geospatial Intern",
+    "location": "San Francisco / Remote",
+    "url": "https://climate.com/careers",
+    "priority": "A",
+    "notes": "公司信息：气候农业数据。JD/要求：遥感、气候和ML交叉方向。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Watershed",
+    "role": "Climate Data / Product Analyst Intern",
+    "location": "San Francisco, CA",
+    "url": "https://watershed.com/careers",
+    "priority": "A",
+    "notes": "公司信息：气候科技。JD/要求：科学背景与企业数据产品结合。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Pachama",
+    "role": "Geospatial / Climate Data Intern",
+    "location": "San Francisco / Remote",
+    "url": "https://pachama.com/careers",
+    "priority": "A",
+    "notes": "公司信息：气候遥感。JD/要求：遥感作品集对口；逐岗核验开放状态。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Tomorrow.io",
+    "role": "Weather Data Science Intern",
+    "location": "Remote / Boston",
+    "url": "https://www.tomorrow.io/careers/",
+    "priority": "A",
+    "notes": "公司信息：气象数据。JD/要求：时空数据和科学计算方向。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Spire Global",
+    "role": "Space Data / Weather Analytics Intern",
+    "location": "Remote / VA / CO",
+    "url": "https://spire.com/careers/",
+    "priority": "A",
+    "notes": "公司信息：商业卫星数据。JD/要求：仅投数据产品与分析岗；排除明确出口管制岗位。建议窗口：滚动/项目制。",
+    "country": "美国"
+  },
+  {
+    "company": "Satellogic",
+    "role": "Geospatial Data / Product Intern",
+    "location": "Remote / US",
+    "url": "https://satellogic.com/careers/",
+    "priority": "A",
+    "notes": "公司信息：商业遥感。JD/要求：逐岗核验美国工作地点和CPT。建议窗口：滚动/项目制。",
+    "country": "美国"
+  }
+]
